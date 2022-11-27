@@ -38,5 +38,9 @@ eller
 
 *** PROVA ATT DET GÅR ATT KÖRA PROGRAMMET ***
 
+## En README.md utan innehåll räknar jag inte som en README.md
 
+Den är till för att beskriva sitt repository/mjukvara.
+
+*** Det bör ju åtminstånde stå vad programmet gör, hur man kompilerar och kör det. ***
 
