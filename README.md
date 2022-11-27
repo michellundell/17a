@@ -28,9 +28,8 @@ make
 Programmet körs såhär:
 ```
 make run
-
+```
 eller
-
 ```
 ./ticket -f flights.csv -b bookings.csv
 ```
