@@ -18,14 +18,14 @@ Jag kommer då att ge feedback på de som registrerat sitt repository i final_as
 (och jag hunnit med att titta igenom).
 
 Tills dess kan de som "lämnat in uppgiften" kolla att de i sin README.md beskriver hur
-programmet byggs 
+programmet byggs till exempel så här:
 
 Programmet kompileras genom att man skriver:
 ```
 make
 ```
 
-Programmet körs såhär:
+Programmet körs så här:
 ```
 make run
 ```
@@ -35,6 +35,7 @@ eller
 ```
 
 *** PROVA ATT DET GÅR ATT KOMPILERA PROGRAMMET ***
+
 *** PROVA ATT DET GÅR ATT KÖRA PROGRAMMET ***
 
 
