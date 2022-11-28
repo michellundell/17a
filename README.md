@@ -1,5 +1,7 @@
 # 17a
-Dags att knyta ihop säcken ordentligt.
+*** Jag är på utvecklingssamtal mellan 09:00 och är tillbaka igen vid 09:45 ***
+Jag kommer då att ge feedback på de som registrerat sitt repository i final_assignment.txt
+(de jag hunnit med att titta igenom).
 
 ## Några som skall "forka" 14a och uppdatera/pull request på final_assignment.txt
 - ahmed a
@@ -13,18 +15,13 @@ Dags att knyta ihop säcken ordentligt.
 - ahmed m
 - kevin
 
-Jag blir lite sen, skall på ett utvecklingssamtal, kommer ca 09:45.
-Jag kommer då att ge feedback på de som registrerat sitt repository i final_assignment.txt
-(och jag hunnit med att titta igenom).
-
-Tills dess kan de som "lämnat in uppgiften" kolla att de i sin README.md beskriver hur
-programmet byggs till exempel så här:
+Kontrollera gärna att README.md beskriver hur
+programmet byggs och körs! Till exempel så här:
 
 Programmet kompileras genom att man skriver:
 ```
 make
 ```
-
 Programmet körs så här:
 ```
 make run
@@ -43,4 +40,3 @@ eller
 Den är till för att beskriva sitt repository/mjukvara.
 
 *** Det bör ju åtminstånde stå vad programmet gör, hur man kompilerar och kör det. ***
-
