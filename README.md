@@ -30,12 +30,12 @@ eller
 ./ticket -f flights.csv -b bookings.csv
 ```
 
-*** PROVA ATT DET GÅR ATT KOMPILERA PROGRAMMET ***
+## PROVA ATT DET GÅR ATT KOMPILERA PROGRAMMET, gärna m.h.a GitHub Actions & Makefile
 
-*** PROVA ATT DET GÅR ATT KÖRA PROGRAMMET ***
+## PROVA ATT DET GÅR ATT KÖRA PROGRAMMET och att det skapar biljetter!
 
 ## En README.md utan innehåll räknar jag inte som en README.md
 
 Den är till för att beskriva sitt repository/mjukvara.
 
-*** Det bör ju åtminstånde stå vad programmet gör, hur man kompilerar och kör det. ***
+### I en README bör det ju åtminstånde stå vad programmet gör, hur man kompilerar och kör det!
