@@ -1,7 +1,6 @@
 # 17a
-*** Jag är på utvecklingssamtal mellan 09:00 och är tillbaka igen vid 09:45 ***
-Jag kommer då att ge feedback på de som registrerat sitt repository i final_assignment.txt
-(de jag hunnit med att titta igenom).
+## Jag är på utvecklingssamtal mellan 09:00 och är tillbaka igen vid 09:45
+När jag är tillbaka kommer jag att ge feedback på de som registrerat sitt repository i final_assignment.txt .
 
 ## Några som skall "forka" 14a och uppdatera/pull request på final_assignment.txt
 - ahmed a
